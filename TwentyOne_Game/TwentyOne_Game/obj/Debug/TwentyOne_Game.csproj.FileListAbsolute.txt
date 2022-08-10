@@ -1,0 +1,10 @@
+C:\Users\Razer\source\repos\TwentyOne_Game\TwentyOne_Game\bin\Debug\TwentyOne_Game.exe.config
+C:\Users\Razer\source\repos\TwentyOne_Game\TwentyOne_Game\bin\Debug\TwentyOne_Game.exe
+C:\Users\Razer\source\repos\TwentyOne_Game\TwentyOne_Game\bin\Debug\TwentyOne_Game.pdb
+C:\Users\Razer\source\repos\TwentyOne_Game\TwentyOne_Game\obj\Debug\TwentyOne_Game.csproj.AssemblyReference.cache
+C:\Users\Razer\source\repos\TwentyOne_Game\TwentyOne_Game\obj\Debug\TwentyOne_Game.csproj.CoreCompileInputs.cache
+C:\Users\Razer\source\repos\TwentyOne_Game\TwentyOne_Game\obj\Debug\TwentyOne_Game.exe
+C:\Users\Razer\source\repos\TwentyOne_Game\TwentyOne_Game\obj\Debug\TwentyOne_Game.pdb
+C:\Users\Razer\source\repos\TwentyOne_Game\TwentyOne_Game\bin\Debug\Casino.dll
+C:\Users\Razer\source\repos\TwentyOne_Game\TwentyOne_Game\bin\Debug\Casino.pdb
+C:\Users\Razer\source\repos\TwentyOne_Game\TwentyOne_Game\obj\Debug\TwentyOne_Game.csproj.CopyComplete

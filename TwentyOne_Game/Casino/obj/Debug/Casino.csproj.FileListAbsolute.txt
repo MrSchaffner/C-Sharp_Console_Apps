@@ -1,0 +1,6 @@
+C:\Users\Razer\source\repos\TwentyOne_Game\Casino\bin\Debug\Casino.dll
+C:\Users\Razer\source\repos\TwentyOne_Game\Casino\bin\Debug\Casino.pdb
+C:\Users\Razer\source\repos\TwentyOne_Game\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Razer\source\repos\TwentyOne_Game\Casino\obj\Debug\Casino.dll
+C:\Users\Razer\source\repos\TwentyOne_Game\Casino\obj\Debug\Casino.pdb
+C:\Users\Razer\source\repos\TwentyOne_Game\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
