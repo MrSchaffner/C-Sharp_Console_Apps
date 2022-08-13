@@ -1,0 +1,13 @@
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_Console_Apps\Entity_Framework_Console_App\Entity_Framework_Console_App\bin\Debug\Entity_Framework_Console_App.exe.config
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_Console_Apps\Entity_Framework_Console_App\Entity_Framework_Console_App\bin\Debug\Entity_Framework_Console_App.exe
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_Console_Apps\Entity_Framework_Console_App\Entity_Framework_Console_App\bin\Debug\Entity_Framework_Console_App.pdb
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_Console_Apps\Entity_Framework_Console_App\Entity_Framework_Console_App\bin\Debug\EntityFramework.dll
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_Console_Apps\Entity_Framework_Console_App\Entity_Framework_Console_App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_Console_Apps\Entity_Framework_Console_App\Entity_Framework_Console_App\bin\Debug\EntityFramework.xml
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_Console_Apps\Entity_Framework_Console_App\Entity_Framework_Console_App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_Console_Apps\Entity_Framework_Console_App\Entity_Framework_Console_App\obj\Debug\Entity_Framework_Console_App.csproj.AssemblyReference.cache
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_Console_Apps\Entity_Framework_Console_App\Entity_Framework_Console_App\obj\Debug\Entity_Framework_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_Console_Apps\Entity_Framework_Console_App\Entity_Framework_Console_App\obj\Debug\Entity_Framework_Console_App.csproj.CopyComplete
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_Console_Apps\Entity_Framework_Console_App\Entity_Framework_Console_App\obj\Debug\Entity_Framework_Console_App.exe
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_Console_Apps\Entity_Framework_Console_App\Entity_Framework_Console_App\obj\Debug\Entity_Framework_Console_App.pdb
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_Console_Apps\Entity_Framework_Console_App\Entity_Framework_Console_App\obj\Debug\Entity_Framework_Console_App.csproj.SuggestedBindingRedirects.cache
