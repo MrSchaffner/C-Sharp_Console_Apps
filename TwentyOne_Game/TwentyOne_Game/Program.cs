@@ -9,6 +9,8 @@ namespace TwentyOne_Game
 {
     class Program
     {
+        public static string logFileURL = @"C:\Users\Razer\OneDrive\GitHub\C-Sharp_Console_Apps\TwentyOne_Game\Logged_Files\id_Log.txt";
+
         static void Main(string[] args)
         {
             //DoDateTime();
@@ -42,14 +44,14 @@ namespace TwentyOne_Game
                 //PLAYER LOGGING
                 Player player = new Player(playerName, balance);
                 player.Id = Guid.NewGuid();
-                using (
-             StreamWriter file = new StreamWriter(@"C:\Users\Razer\Desktop\BasicC#Programs\LOGGED_FILES\id_Log.txt", true)
-             //appends to current log if TRUE
-             )
-                {
-                    file.WriteLine(DateTime.Now);
-                    file.WriteLine("Player {1} with id# {0} created.", player.Id, player.Name);
-                }
+             //   using (
+             //StreamWriter file = new StreamWriter(path: logFileURL, append: true)
+             ////appends to current log if TRUE
+             //)
+                //{
+                //    file.WriteLine(DateTime.Now);
+                //    file.WriteLine("Player {1} with id# {0} created.", player.Id, player.Name);
+                //}
 
                 Game game = new TwentyOneGame();
                 //game += player;
@@ -96,10 +98,8 @@ namespace TwentyOne_Game
 
         public static void writeToTextFile()
         {
-            //string myText = "Text written from program.cs in TwentyOne Program.";
-            //File.WriteAllText(@"C:\Users\Razer\Desktop\BasicC#Programs\LOGGED_FILES\Log.txt", myText);
 
-            string textRead = File.ReadAllText(@"C:\Users\Razer\Desktop\BasicC#Programs\LOGGED_FILES\Log.txt");
+            string textRead = File.ReadAllText(logFileURL);
             Console.WriteLine(textRead);
         }
 

@@ -8,14 +8,11 @@ Simple Applications that run via the Console, without a GUI. Built using Visual 
 
 Play a simple game of 21. Utilizes most of the basic concepts of C# development including error handling, enumerated variables, and inherited classes. Also implements symbols in an attempt at the aesthetic.
 
+![21 Game Console App](display_images/21_console.png)
+
 ### [Scores App]()
 
 A group of test scores are read and averaged. Demonstrates reading lines from a file, converting the data into usable data and performing a calculation on it.
-
-### [Aquaman Site](https://github.com/GenoSophy/HTML_-_CSS_Projects/tree/main/Sample_Projects/bootstrap4_project)
-
-This page utilizes Bootstrap to produce a modern looking site for fans of aquaman.
-
 
 
 ```bash

@@ -9,7 +9,7 @@ namespace Casino
 {
     public class Dealer
     {
-
+        public static string logFileURL = @"C:\Users\Razer\OneDrive\GitHub\C-Sharp_Console_Apps\TwentyOne_Game\Logged_Files\id_Log.txt";
         public string Name { get; set; }
         public Deck Deck { get; set; }
         public int Balance { get; set; }
@@ -20,14 +20,14 @@ namespace Casino
             string card = string.Format((Deck.Cards.First().ToString() + "\n"));
             Console.WriteLine(card);
 
-            using (
-                StreamWriter file = new StreamWriter(@"C:\Users\Razer\Desktop\BasicC#Programs\LOGGED_FILES\Log.txt", true) 
-                //appends to current log if TRUE
-                )
-            {
-                file.WriteLine(DateTime.Now);
-                file.WriteLine(card);
-            }
+            //using (
+            //    StreamWriter file = new StreamWriter(logFileURL, true) 
+            //    //appends to current log if TRUE
+            //    )
+            //{
+            //    file.WriteLine(DateTime.Now);
+            //    file.WriteLine(card);
+            //}
 
             Deck.Cards.RemoveAt(0);
 
